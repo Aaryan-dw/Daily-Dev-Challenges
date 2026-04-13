@@ -20,3 +20,15 @@ This folder contains complete solutions for Day 2 challenges.
 - `medium-task-4-modal-popup/`
 - `hard-task-5-image-gallery/`
 - `leaderboard/`
+
+## New Day 4 Solutions
+
+Day 4 was added with a complete set of challenge solutions matching the open issues:
+
+- `day4/`
+- `day4/easy-task-1-build-pagination-system/`
+- `day4/easy-task-2-loading-spinner/`
+- `day4/medium-task-3-build-tab-system/`
+- `day4/medium-task-4-create-accordion-ui/`
+- `day4/hard-task-5-build-notification-system/`
+- `day4/leaderboard/`

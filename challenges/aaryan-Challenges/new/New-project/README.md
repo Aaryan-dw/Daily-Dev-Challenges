@@ -1,16 +1,79 @@
-# React + Vite
+# ⚡ React + Vite + Tailwind Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern frontend project built using **React (Vite)** and **Tailwind CSS** for fast development and utility-first styling.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tech Stack
 
-## React Compiler
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📁 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+src/
+├── assets/ # Images, Icons, SVGs
+├── components/ # Reusable UI (Navbar, Button)
+├── hooks/ # Custom React Hooks
+├── sections/ # Page Sections (Hero, Contact)
+├── styles/ # Global CSS
+└── App.jsx
+---
+
+
+---
+
+## ⚙️ Features
+
+- Fast development with Vite
+- Utility-first styling with Tailwind CSS
+- Modular and scalable folder structure
+- Reusable components system
+- Custom hooks support
+
+---
+
+## 📦 Installation
+
+```
+npm install
+```
+
+## Run Server
+```
+npm run dev
+```
+
+## Build for Production
+```
+npm run build
+```
+
+## 👨‍💻 Purpose
+---
+This project is designed for:
+
+Daily Dev Challenges
+Portfolio development
+Learning React + Tailwind workflow
+Building scalable UI systems
+---
+
+## Notes
+---
+Keep components reusable and small
+Use sections/ for page-level layout blocks
+Use hooks/ for logic reuse
+Use Tailwind for styling instead of custom CSS where possible
+---
+
+## Author
+---
+Aaryan Koirala
+---
+
